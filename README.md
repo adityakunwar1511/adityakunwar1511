@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Kunwar
+- <h1>👋 Hi, I’m Aditya Kunwar</h1>
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
@@ -18,11 +18,13 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aditya-kunwar-809554201/))
+- [LinkedIn](https://www.linkedin.com/in/aditya-kunwar-809554201/)
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Stats:
+
+- [LeetCode_Profile](https://leetcode.com/aditya_kunwar)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakunwar1511&layout=compact&theme=radical)
 
