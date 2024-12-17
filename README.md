@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityakunwar1511
+- 👋 Hi, I’m Aditya Kunwar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
